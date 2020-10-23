@@ -1,0 +1,18 @@
+.rows {display: flex; justify-content: space-evenly;}
+#field {height: 40vh; display: flex; flex-direction: column; width: 600px;}
+.fields {height: 100px; position: relative; top: 0; left: 0;}
+.fieldDiv {position: relative;}
+#space {height: 40px;}
+#wrapper {background-color: cyan; height: 700px; border-style: solid;}
+body {text-align: center; font-family: monospace; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+h1 {font-size: 70px;}
+h2 {font-size: 20px;}
+body {background-color: cadetblue;}
+
+.bump {
+    background-image: url("images/mrbump.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:  100px;
+    height: 60px;
+}
